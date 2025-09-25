@@ -1,4 +1,4 @@
-# 🛍️ E-commerce Artisanal – Data Analytics
+# 🛍️ E-commerce Arte de Vivir – Data Analytics
 
 Aplicación en **Python** para **limpiar, preparar y analizar** datos de ventas de el e-commerce El Arte de Vivir. El proyecto sigue una estructura de **Git Flow** y demuestra buenas prácticas de análisis de datos. Este proyecto permite cargar datos desde archivos CSV y JSON, preprocesarlos (manejo de valores nulos, estandarización de texto y limpieza de precios), unir y analizar la información para responder preguntas clave como: ¿Cuál es el producto con más unidades vendidas?, ¿Cuál es el ingreso total por categoría de producto?, y ¿Cuántos pedidos contienen más de 2 unidades?
 
