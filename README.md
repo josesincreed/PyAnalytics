@@ -51,7 +51,7 @@ Estos archivos incluyen inconsistencias de texto y algunos valores faltantes par
 
 ## Flujo de Trabajo con Git Flow
 
-- main: Rama protegida para versiones estables.  
+- master: Rama protegida para versiones estables.  
 - develop: Rama base para integrar nuevas características.  
 - feature/*: Ramas de desarrollo para cada nueva función o mejora.  
 - Pull Requests: Para fusionar feature/* en develop y luego en main.
