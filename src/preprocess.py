@@ -15,10 +15,10 @@ def load_data(file_path) -> pd.DataFrame:
         return pd.read_csv(file_path)
 
     elif file_path.suffix.lower() == ".json":
-        # Leer el archivo completo como lista de diccionarios
+        # Lee el archivo completo como lista de diccionarios
         with open(file_path, "r", encoding="utf-8") as f:
             data = json.load(f)
-            # Validar que realmente sea una lista de objetos
+            # Valida que realmente sea una lista de objetos
             if not isinstance(data, list):
                 raise ValueError(
                     f"El archivo {file_path} no contiene una lista JSON válida."
