@@ -64,8 +64,5 @@ Estos archivos incluyen inconsistencias de texto y algunos valores faltantes par
 
 ## Autor
 
-Proyecto desarrollado por [Tu Nombre] como parte del Momento 2 – Data Analytics.
+Proyecto desarrollado por Jose David Parra Uribe como parte del Momento 2 – Data Analytics.
 
-## Licencia
-
-Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo LICENSE si deseas más información.
