@@ -1,0 +1,22 @@
+[
+  {"order_id": 1,  "product_id": 7,  "customer": "Ana",      "quantity": 2},
+  {"order_id": 2,  "product_id": 3,  "customer": "Pedro",    "quantity": 1},
+  {"order_id": 3,  "product_id": 15, "customer": "Laura",    "quantity": 4},
+  {"order_id": 4,  "product_id": 20, "customer": "Javier",   "quantity": 2},
+  {"order_id": 5,  "product_id": 11, "customer": "Marta",    "quantity": 3},
+  {"order_id": 6,  "product_id": 5,  "customer": "Carlos",   "quantity": 1},
+  {"order_id": 7,  "product_id": 9,  "customer": "Elena",    "quantity": 2},
+  {"order_id": 8,  "product_id": 1,  "customer": "Sofía",    "quantity": 5},
+  {"order_id": 9,  "product_id": 18, "customer": "Andrés",   "quantity": 2},
+  {"order_id": 10, "product_id": 14, "customer": "Patricia", "quantity": 1},
+  {"order_id": 11, "product_id": 2,  "customer": "Mario",    "quantity": 3},
+  {"order_id": 12, "product_id": 10, "customer": "Valeria",  "quantity": 1},
+  {"order_id": 13, "product_id": 6,  "customer": "Luis",     "quantity": 2},
+  {"order_id": 14, "product_id": 4,  "customer": "Lucía",    "quantity": 4},
+  {"order_id": 15, "product_id": 17, "customer": "Camila",   "quantity": 2},
+  {"order_id": 16, "product_id": 8,  "customer": "Jorge",    "quantity": 1},
+  {"order_id": 17, "product_id": 19, "customer": "Santiago", "quantity": 3},
+  {"order_id": 18, "product_id": 12, "customer": "Paula",    "quantity": 2},
+  {"order_id": 19, "product_id": 16, "customer": "Isabel",   "quantity": 1},
+  {"order_id": 20, "product_id": 13, "customer": "Fernando", "quantity": 2}
+]
