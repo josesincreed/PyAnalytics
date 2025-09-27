@@ -46,6 +46,7 @@ Número de pedidos con más de 2 unidades: 6
 ## Datos de Ejemplo
 
 - products.csv: Catálogo de productos (ID, nombre, categoría, precio con símbolo `$` y valores nulos simulados).  
+- customers.csv Lista de clientes con sus datos (customer_id,nombre,ciudad,email)
 - orders.json: Pedidos de clientes (ID de pedido, ID de producto, cliente, cantidad).  
 Estos archivos incluyen inconsistencias de texto y algunos valores faltantes para mostrar la utilidad del módulo de preprocesamiento.
 

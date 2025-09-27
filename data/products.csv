@@ -19,3 +19,83 @@ id,nombre,categoría,precio
 18,Crema de Aloe Vera,Hogar,$11
 19,Pulsera Blanca,Accesorios,$12
 20,Escultura de Cerámica,Decoración,$45
+21,Pulsera Marrón,Accesorios,$14
+22,Collar de Madera,Accesorios,$18
+23,Escultura de Metal,Decoración,$50
+24,Vela de Rosas,Hogar,$11
+25,Aros de Bronce,Accesorios,$16
+26,Pulsera Gris,Accesorios,$13
+27,Escultura de Resina,Decoración,$42
+28,Ambientador Lavanda,Hogar,$9
+29,Collar de Piedra,Accesorios,$20
+30,Crema de Almendra,Hogar,$13
+31,Pulsera Celeste,Accesorios,$15
+32,Aros de Cobre,Accesorios,$19
+33,Escultura de Vidrio,Decoración,$48
+34,Vela de Vainilla,Hogar,$12
+35,Collar de Cristal,Accesorios,$24
+36,Pulsera Dorada,Accesorios,$21
+37,Escultura de Mármol,Decoración,$60
+38,Ambientador Cítrico,Hogar,$10
+39,Aros de Acero,Accesorios,$17
+40,Pulsera Turquesa,Accesorios,$16
+41,Collar de Perlas Negras,Accesorios,$28
+42,Escultura de Barro,Decoración,$38
+43,Vela Aromática,Hogar,$14
+44,Pulsera Naranja,Accesorios,$12
+45,Crema de Karité,Hogar,$15
+46,Aros de Plata y Oro,Accesorios,$35
+47,Collar de Cuentas Rojas,Accesorios,$19
+48,Escultura de Yeso,Decoración,$41
+49,Vela de Coco,Hogar,$13
+50,Pulsera Lila,Accesorios,$14
+51,Collar de Coral,Accesorios,$22
+52,Escultura de Cerámica Azul,Decoración,$46
+53,Ambientador de Canela,Hogar,$12
+54,Pulsera Negra y Blanca,Accesorios,$15
+55,Aros de Jade,Accesorios,$25
+56,Collar de Madera Tallada,Accesorios,$23
+57,Escultura de Hueso,Decoración,$50
+58,Vela de Lavanda y Rosa,Hogar,$16
+59,Pulsera Verde Oliva,Accesorios,$13
+60,Crema de Coco y Vainilla,Hogar,$14
+61,Aros Dorados,Accesorios,$20
+62,Collar de Perlas Blancas,Accesorios,$30
+63,Escultura de Arcilla Blanca,Decoración,$40
+64,Vela de Sándalo,Hogar,$11
+65,Pulsera Roja y Negra,Accesorios,$18
+66,Collar de Cristal Azul,Accesorios,$26
+67,Escultura de Piedra Blanca,Decoración,$55
+68,Ambientador Floral y Frutal,Hogar,$14
+69,Aros Plateados,Accesorios,$22
+70,Pulsera Azul y Rosa,Accesorios,$16
+71,Collar de Cuentas Amarillas,Accesorios,$20
+72,Escultura de Madera Tallada,Decoración,$45
+73,Vela de Lavanda y Vainilla,Hogar,$15
+74,Pulsera Marrón y Beige,Accesorios,$17
+75,Crema de Aloe y Karité,Hogar,$18
+76,Aros de Bronce Antiguo,Accesorios,$24
+77,Collar de Perlas Rosadas,Accesorios,$28
+78,Escultura de Cerámica Negra,Decoración,$48
+79,Ambientador de Eucalipto,Hogar,$13
+80,Pulsera Verde Menta,Accesorios,$14
+81,Collar de Piedra Negra,Accesorios,$22
+82,Escultura de Vidrio Verde,Decoración,$50
+83,Vela de Naranja,Hogar,$12
+84,Pulsera Fucsia,Accesorios,$15
+85,Aros de Plata Azul,Accesorios,$19
+86,Collar de Cuentas Multicolor,Accesorios,$25
+87,Escultura de Mármol Gris,Decoración,$55
+88,Ambientador de Lavanda,Hogar,$14
+89,Pulsera Celeste y Blanca,Accesorios,$16
+90,Crema de Almendra y Coco,Hogar,$15
+91,Aros de Oro Rosa,Accesorios,$30
+92,Collar de Cuentas Verdes,Accesorios,$20
+93,Escultura de Piedra Negra,Decoración,$52
+94,Vela de Jazmín,Hogar,$13
+95,Pulsera Roja y Dorada,Accesorios,$18
+96,Collar de Madera y Piedra,Accesorios,$24
+97,Escultura de Arcilla Rojiza,Decoración,$47
+98,Ambientador Tropical,Hogar,$16
+99,Pulsera Negra y Dorada,Accesorios,$19
+100,Collar de Cristal Rosa,Accesorios,$26
