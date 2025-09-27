@@ -1,0 +1,2 @@
+pandas
+Python 3.11
